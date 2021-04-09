@@ -18,9 +18,9 @@ The applications works with TheMealDB api using the Fetch API. I wanted to pract
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/114125859-da4b2a00-9929-11eb-9b6d-8f2fa8558667.png)
 
-[Demo]()
+[Demo](https://nostalgic-agnesi-e12c2a.netlify.app/)
 
 ## Built With
 
